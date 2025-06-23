@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./node_modules/bootstrap-icons/font/bootstrap-icons.css">
+  <title>Document</title>
+  <style>
+    dialog{
+      display: grid;
+      grid-template-rows: 3fr 6fr 3fr;
+      font-family: Arial;
+      border-radius: 20px;
+      box-shadow: 2px 2px 2px black;
+      height: 600px;
+      width: 400px;
+      border: none;
+      padding: 0px;
+    }
+
+    .profile-pic{
+      color: white;
+      border-top-left-radius: 20px;
+      border-top-right-radius: 20px;
+      font-size: 35px;
+      display: flex;
+      padding: 20px;
+      flex-direction: row;
+      align-items: center;
+      vertical-align: middle;
+      justify-content: space-between;
+      background-color: orangered;
+    }
+
+    .message-panel{
+      height: 400px;
+      border-radius: 20px;
+    }
+
+    .message{
+      border-radius: 20px;
+      padding: 20px;
+      border: none;
+      box-shadow: 2px 2px 5px black;
+      margin-top: 250px;
+      width: 350px;
+    }
+
+    .id-name{
+      font-weight: 600;
+      color: gray;
+      padding-bottom: 10px;
+    }
+
+    .dialog-footer{
+      color: gray;
+      border-top: 1px solid gray;
+      font-size: 20px;
+      padding-top: 20px;
+      padding-left: 18px;
+    }
+  </style>
+</head>
+<body>
+  <dialog open>
+    <div class="profile-pic">
+      <div class="bi bi-person-circle"></div>
+      <div>Naresh i Technology</div>
+    </div>
+
+    <div class="message-panel">
+      <div class="message">
+        <div class="id-name">Naresh i technology</div>
+         Hello, Good evening <br>
+          Appear that you are visiting our pages!Can we help you find any suitable?
+      </div>
+    </div>
+    
+    <div class="dialog-footer">
+      Type your message and hit enter...
+    </div>
+  </dialog>
+</body>
+</html>
