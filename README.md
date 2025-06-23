@@ -1,5 +1,5 @@
 # Static-Web-Projects
-  -Here I create some mini static-web page projects By using HTML, CSS & Bootstrap.
+  -Here we create some mini static-web page projects By using HTML, CSS & Bootstrap.
 
 ## Dialog Box
  - Here we create a dialog box with 3 partition element.
