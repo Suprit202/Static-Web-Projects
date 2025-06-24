@@ -9,4 +9,4 @@
 ## Fieldset & Legendry
  - Here we use fields and legend to create demo of two forms.
  - here we apply a grid of 6fr 6fr to distribute dd and dt.
- <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-19%20161908.png" alt="Placeholder" width="100%" height= "100px" />
+ <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-19%20161908.png" alt="Placeholder" width="100%" height= "500px" />
