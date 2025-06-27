@@ -19,4 +19,4 @@
  ## Nav bar using orderd list
  - We use a ordered list and make it's list style none.
  - we use flex to display it horizontally.
- <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-18%20153736.png" alt="Placeholder" width="50%" height= "800px" />
+ <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-18%20153736.png" alt="Placeholder" width="100%" height= "50px" />
