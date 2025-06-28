@@ -24,4 +24,4 @@
   ## Details & Summary
  - We use details & summary here.
  - we use unordered list and make it's style none
- <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-18%20153736.png" alt="Placeholder" width="100%" height= "50px" />
+ <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-28%20140355.png" alt="Placeholder" width="100%" height= "50px" />
