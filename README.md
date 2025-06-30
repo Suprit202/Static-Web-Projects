@@ -32,5 +32,5 @@
  <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-17%20174639.png" alt="Placeholder" width="100%" height= "500px" />
 
   ## Inter Document Link
- - Here we use id to targate specific element.
-   [![Watch the video]https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-30%20222610.png](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screen%20Recording%202025-06-30%20221116.mp4)
+ - Here we use id to targate specific element.<br>
+   [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-30%20222610.png)](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screen%20Recording%202025-06-30%20221116.mp4)
