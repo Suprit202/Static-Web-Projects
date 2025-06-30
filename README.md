@@ -33,4 +33,4 @@
 
   ## Inter Document Link
  - Here we use id to targate specific element.<br>
-   [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-30%20222610.png)](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screen%20Recording%202025-06-30%20221116.mp4)
+   [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-30%20222610.png)](https://youtu.be/c1rwBp8F4WY)
