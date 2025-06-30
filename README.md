@@ -30,3 +30,7 @@
  - We use l-cap for first letter.
  - we use contious columns to write paper containt.
  <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-17%20174639.png" alt="Placeholder" width="100%" height= "500px" />
+
+  ## Inter Document Link
+ - Here we use id to targate specific element.
+   [![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
