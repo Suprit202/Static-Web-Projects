@@ -33,4 +33,4 @@
 
   ## Inter Document Link
  - Here we use id to targate specific element.
-   [![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+   [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screen%20Recording%202025-06-30%20221116.mp4)
