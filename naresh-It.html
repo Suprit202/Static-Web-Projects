@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./node_modules/bootstrap-icons/font/bootstrap-icons.css">
+  <title>Document</title>
+  <style>
+    body{
+      margin: 0px;
+      padding: 0px;
+    }
+
+    ul{
+      list-style: none;
+      padding: 0px 0px 0px 0px ;
+    }
+
+    li{
+      padding: 4px 0px;
+    }
+    .bi-star-fill, .bi-star-half{
+      color: goldenrod;
+    }
+
+    section{
+      display: grid;
+      grid-template-columns: 3fr 3fr 3fr 3fr;
+      justify-content: space-between;
+      margin-top: -120px;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+
+    .img-background{
+      width: 100%;
+    }
+
+    .card{
+      display: grid;
+      grid-template-rows: 5.5fr 5.5fr 1fr;
+      background-color: whitesmoke;
+      box-shadow: 2px 2px 5px black;
+      height: 450px;
+      border-radius: 10px;
+      margin: 6%;
+    }
+
+    .card-header-img{
+      width: 100%;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+    }
+
+    .card-section{
+      padding: 0px 0px 0px 30px;
+    }
+
+    .card-title{
+      width: 100%;
+      padding: 0px 0px 10px 0px;
+      font-family: arial;
+      font-size: 18px;
+      font-weight: bold;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .card-footer{
+      display: grid;
+      grid-template-columns: 6fr 6fr;
+      text-align: center;
+    }
+    
+    .card-footer{
+      display: grid;
+      grid-template-columns: 6fr 6fr;
+      text-align: center;
+      margin-top: 1px;
+    }
+
+    .card-footer div{
+      padding: 10px;
+    }
+
+    .rating{
+      padding: 1px 0px 0px 0px;
+    }
+
+    .enroll{
+      color: white;
+      background-color: #0066CC;
+      border-bottom-left-radius: 10px;
+    }
+
+    .bi-share{
+      background-color: white;
+      border-bottom-right-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="./public/images/banner1.jpg" class="img-background">
+  </header>
+  <section>
+    <div class="card">
+      <div class="card-header">
+        <img src="./public/images/n1.png" class="card-header-img">
+      </div>
+      <div class="card-section">
+        <div class="card-title">DevOps with AWS</div>
+        <div class="rating">
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-half"></span>
+          <span> 4.5</span>
+       </div>
+       <div class="card-details">
+          <ul>
+            <li class="bi bi-clock"> &nbsp;&nbsp;Start Date: 2 Jul 2025</li>
+            <li class="bi bi-person"> &nbsp;&nbsp;by: Mr. Raham</li>
+            <li class="bi bi-clock"> &nbsp;&nbsp;Dur: 3 Months</li>
+          </ul>
+        </div>
+      </div>
+      <div  class="card-footer">
+        <div class="enroll">Enroll</div>
+        <div class="bi bi-share"> &nbsp;Share</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <img src="./public/images/n2.png" class="card-header-img">
+      </div>
+      <div class="card-section">
+        <div class="card-title">Data Structire & Algorithms using Java</div>
+        <div class="rating">
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span> 5</span>
+       </div>
+       <div class="card-details">
+          <ul>
+            <li class="bi bi-clock"> &nbsp;&nbsp;Start Date: 2 Jul 2025</li>
+            <li class="bi bi-person"> &nbsp;&nbsp;by: Mr. Raham</li>
+            <li class="bi bi-clock"> &nbsp;&nbsp;Dur: 45 Days</li>
+          </ul>
+        </div>
+      </div>
+      <div  class="card-footer">
+        <div class="enroll">Enroll</div>
+        <div class="bi bi-share"> &nbsp;Share</div>
+      </div>
+    </div>
+
+        <div class="card">
+      <div class="card-header">
+        <img src="./public/images/n3.png" class="card-header-img">
+      </div>
+      <div class="card-section">
+        <div class="card-title">Fullstack Data Science & AI</div>
+        <div class="rating">
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-half"></span>
+          <span> 4.5</span>
+       </div>
+       <div class="card-details">
+          <ul>
+            <li class="bi bi-clock"> &nbsp;&nbsp;Start Date: 30 Jul 2025</li>
+            <li class="bi bi-person"> &nbsp;&nbsp;by: Mr. Sriram</li>
+            <li class="bi bi-clock"> &nbsp;&nbsp;Dur: 4 Months</li>
+          </ul>
+        </div>
+      </div>
+      <div  class="card-footer">
+        <div class="enroll">Enroll</div>
+        <div class="bi bi-share"> &nbsp;Share</div>
+      </div>
+    </div>
+
+        <div class="card">
+      <div class="card-header">
+        <img src="./public/images/n4.png" class="card-header-img">
+      </div>
+      <div class="card-section">
+        <div class="card-title">UI Fullstack Web Development With React</div>
+        <div class="rating">
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span class="bi bi-star-fill"></span>
+          <span> 5</span>
+       </div>
+       <div class="card-details">
+          <ul>
+            <li class="bi bi-clock"> &nbsp;&nbsp;Start Date: 30 Jul 2025</li>
+            <li class="bi bi-person"> &nbsp;&nbsp;by: Mr. Sudhakr Sharma</li>
+            <li class="bi bi-clock"> &nbsp;&nbsp;Dur: 4 Months</li>
+          </ul>
+        </div>
+      </div>
+      <div  class="card-footer">
+        <div class="enroll">Enroll</div>
+        <div class="bi bi-share"> &nbsp;Share</div>
+      </div>
+    </div>
+</section>
+
+</body>
+</html>
