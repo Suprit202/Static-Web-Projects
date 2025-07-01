@@ -34,3 +34,8 @@
   ## Inter Document Link
  - Here we use id to targate specific element.<br>
    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-30%20222610.png)](https://youtu.be/c1rwBp8F4WY)
+
+## Card Design-1
+ - We use grid to make all cards in a fixed width.
+ - we devide each card in 3 sections(head,body,footer).
+ <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-28%20140355.png" alt="Placeholder" width="100%" height= "500px" />
