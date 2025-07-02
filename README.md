@@ -42,6 +42,6 @@
 
 ## Leetcode Templet Design
  - Here we try to replicate leetcode Problem templet.<br>
-   [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-07-03%20005305.png)](https://youtu.be/c1rwBp8F4WY)
+   [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-07-03%20005305.png)](https://youtu.be/h5zBc6P8VhM)
 
 
