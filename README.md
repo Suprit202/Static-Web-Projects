@@ -41,7 +41,7 @@
  <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-25%20231615.png" alt="Placeholder" width="100%" height= "500px" />
 
 ## Leetcode Templet Design
- - Here we use id to targate s.<br>
-   [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-30%20222610.png)](https://youtu.be/c1rwBp8F4WY)
+ - Here we try to replicate leetcode Problem templet.<br>
+   [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-07-03%20005305.png)](https://youtu.be/c1rwBp8F4WY)
 
 
