@@ -32,7 +32,7 @@
  <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-17%20174639.png" alt="Placeholder" width="100%" height= "500px" />
 
   ## Inter Document Link
- - Here we use id to targate specific element.<br>
+ - Here we use id to targate specific element.
  - click on image to see the template
    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-30%20222610.png)](https://youtu.be/c1rwBp8F4WY)
 
@@ -42,7 +42,7 @@
  <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-25%20231615.png" alt="Placeholder" width="100%" height= "500px" />
 
 ## Leetcode Templet Design
- - Here we try to replicate leetcode Problem templet.<br>
+ - Here we try to replicate leetcode Problem templet.
  - click on image to see the template
    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-07-03%20005305.png)](https://youtu.be/h5zBc6P8VhM)
 
