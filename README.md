@@ -48,4 +48,7 @@
  - We use HTML table and it's element to create it. here we try to all its basics like thead, tbody, tfoot, tr, th, td etc.
  <img src="https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-07-03%20232646.png" alt="Placeholder" width="100%" height= "200px" />
 
+## Leetcode Templet Design
+ - Here we try to replicate amazon shopping website cards.<br>
+   [![Watch the video](https://youtu.be/TyPlpTskO7Y)
 
