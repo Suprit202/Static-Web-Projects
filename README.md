@@ -33,6 +33,7 @@
 
   ## Inter Document Link
  - Here we use id to targate specific element.<br>
+ - click on image to see the template
    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-30%20222610.png)](https://youtu.be/c1rwBp8F4WY)
 
 ## Card Design-1
@@ -42,6 +43,7 @@
 
 ## Leetcode Templet Design
  - Here we try to replicate leetcode Problem templet.<br>
+ - click on image to see the template
    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-07-03%20005305.png)](https://youtu.be/h5zBc6P8VhM)
 
  ## Table Using HTML
@@ -50,5 +52,6 @@
 
 ## Amazon Card Design
  - Here we try to replicate amazon shopping website cards.<br>
+ - click on image to see the template
     [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-26%20151250.png)](https://youtu.be/TyPlpTskO7Y)
 
