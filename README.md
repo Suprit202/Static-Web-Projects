@@ -50,5 +50,5 @@
 
 ## Leetcode Templet Design
  - Here we try to replicate amazon shopping website cards.<br>
-    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-07-03%20232646.png)](https://youtu.be/TyPlpTskO7Y)
+    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-26%20151250.png)](https://youtu.be/TyPlpTskO7Y)
 
