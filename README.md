@@ -59,4 +59,4 @@
  - Here we implime some attibutes of hyper link.<br>
  - we download an image by clicking, we open an image in new tab, open an image in samll tab etc.
  - click on image to see the template
-    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-06-26%20151250.png)](https://youtu.be/hKS_8hcoqxE)
+    [![Watch the video](https://github.com/Suprit202/Static-Web-Projects/blob/main/preview-pics/Screenshot%202025-07-07%20231243.png)](https://youtu.be/hKS_8hcoqxE)
